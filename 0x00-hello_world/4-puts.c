@@ -1,4 +1,3 @@
-#!/bin/bash
 /* Code that print Programming is like building . */
 #include(stdio.h)
 int main(void) 
