@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc $CFIE -0 c.o
